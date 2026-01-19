@@ -56,8 +56,8 @@ Summary / Q&A Output
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/youtube-watsonx-qa.git
-cd youtube-watsonx-qa
+git clone https://github.com/PRONGS-CHIRAG/Vidintel.git
+cd Vidintel
 ```
 
 ### 2️⃣ Create Virtual Environment
@@ -202,7 +202,7 @@ Feel free to use, modify, and distribute.
 If you’re building **AI, RAG, or agentic systems** and want to collaborate:
 
 **Chirag**
-🔗 LinkedIn | GitHub
+🔗 LinkedIn - https://www.linkedin.com/in/chiragnvijay/
 💡 Open to research, startups, and applied AI projects
 
 ---
